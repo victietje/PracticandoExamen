@@ -1,0 +1,14 @@
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\bin\Debug\net8.0\ControlMetodosCadenas.exe
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\bin\Debug\net8.0\ControlMetodosCadenas.deps.json
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\bin\Debug\net8.0\ControlMetodosCadenas.runtimeconfig.json
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\bin\Debug\net8.0\ControlMetodosCadenas.dll
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\bin\Debug\net8.0\ControlMetodosCadenas.pdb
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ControlMetodosCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ControlMetodosCadenas.AssemblyInfoInputs.cache
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ControlMetodosCadenas.AssemblyInfo.cs
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ControlMetodosCadenas.csproj.CoreCompileInputs.cache
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ControlMetodosCadenas.dll
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\refint\ControlMetodosCadenas.dll
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ControlMetodosCadenas.pdb
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ControlMetodosCadenas.genruntimeconfig.cache
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\ControlMetodosCadenas\obj\Debug\net8.0\ref\ControlMetodosCadenas.dll
