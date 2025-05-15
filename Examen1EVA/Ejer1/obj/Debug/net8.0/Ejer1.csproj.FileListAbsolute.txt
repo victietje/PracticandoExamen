@@ -1,0 +1,14 @@
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\bin\Debug\net8.0\Ejer1.exe
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\bin\Debug\net8.0\Ejer1.deps.json
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\bin\Debug\net8.0\Ejer1.runtimeconfig.json
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\bin\Debug\net8.0\Ejer1.dll
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\bin\Debug\net8.0\Ejer1.pdb
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\Ejer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\Ejer1.AssemblyInfoInputs.cache
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\Ejer1.AssemblyInfo.cs
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\Ejer1.csproj.CoreCompileInputs.cache
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\Ejer1.dll
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\refint\Ejer1.dll
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\Ejer1.pdb
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\Ejer1.genruntimeconfig.cache
+C:\Users\vtiet\Desktop\DAM\RepasoProgramacion\Examen1EVA\Ejer1\obj\Debug\net8.0\ref\Ejer1.dll
